@@ -1,0 +1,4 @@
+.bus:hover .red_bus {
+  transform: translateX(2000px);
+  transition: 5s ease;
+}
